@@ -15,5 +15,6 @@ The following files are available at [NCBI FTP](https://ftp-trace.ncbi.nlm.nih.g
 -  bam files for BWA-MEM alignments
 -  source codes
 
-The study design used in the above refrenced paper to capture nonanalytical and analytical factors affecting cancer mutation detection:
+The study design used in the above-referenced paper aims to capture non-analytical and analytical factors affecting cancer mutation detection.
+
 ![image](https://github.com/hamidghaedi/sequencing_benchmark_datasets/blob/main/files/ezgif-1-3bfb46f1cf.jpg)
