@@ -7,7 +7,8 @@ Takeaways from that study (more details at the bottom of page):
 - WES performance was influenced by insert fragment size, genomic copy content, and the global imbalance score (GIV; G > T/C > A). The GIV score is DNA damage indicator and is computed based on the global imbalance between variants detected in R1 and R2 in PE sequencing.
 
 Datasets from Toward best practice in cancer mutation detection with whole-genome and whole-exome sequencing[Nature Biotechnology volume 39, pages1141–1150 (2021)](https://www.nature.com/articles/s41587-021-00994-5)
-- FASTQ files: manifest file (json) is available in the [files](https://github.com/hamidghaedi/sequencing_benchmark_datasets/blob/main/files/sra_explorer_metadata.json) directory.
+- FASTQ files: manifest file (json) is available in the [files](https://github.com/hamidghaedi/sequencing_benchmark_datasets/blob/main/files/sra_explorer_metadata.json) directory. Sequencing files are available at [SRA SRP162370](https://www.ncbi.nlm.nih.gov/sra/?term=SRP162370) To map file names back to sample names and sample type , [SraRunInfo](https://github.com/hamidghaedi/sequencing_benchmark_datasets/blob/main/files/SraRunInfo.csv) file and SEQC2 file naming convention below are helpful.
+![image](https://github.com/hamidghaedi/sequencing_benchmark_datasets/blob/main/files/file_naming_convention.png){width=10%}
 
 The following files are available at [NCBI FTP](https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/seqc/)
 - The call set for somatic mutations in HCC1395    
