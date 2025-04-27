@@ -1,6 +1,6 @@
 # Sequencing Benchmark Datasets
 
-This repository hosts all of the raw and processed data used in the benchmarking study published in **Nature Biotechnology** (September 2021).
+This repository hosts all of the raw and processed data used in the benchmarking study by Wenming Xiao et al, published in **Nature Biotechnology** (September 2021).
 
 ## Study Overview
 
