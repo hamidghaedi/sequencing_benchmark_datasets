@@ -25,7 +25,7 @@ This repository hosts all of the raw and processed data used in the benchmarking
 - **Sequencing runs:** [SRA SRP162370](https://www.ncbi.nlm.nih.gov/sra/?term=SRP162370) 
 - **Sample metadata:** [`files/SraRunInfo.csv`](https://github.com/hamidghaedi/sequencing_benchmark_datasets/blob/main/files/SraRunInfo.csv)  
 - **File-naming convention:**
-- 
+
 <img src="https://github.com/hamidghaedi/sequencing_benchmark_datasets/blob/main/files/file_naming_convention.png" width="60%">
  Use this diagram to map SRA run IDs back to sample names and types.
 
