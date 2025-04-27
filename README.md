@@ -1,4 +1,4 @@
-# sequencing_benchmark_datasets
+# Sequencing Benchmark Datasets
 
 This repository hosts all of the raw and processed data used in the benchmarking study published in **Nature Biotechnology** (September 2021).
 
